@@ -1,16 +1,27 @@
-## Hi there 👋
+# Kerolis Maged
 
-<!--
-**1kerolis/1kerolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science background, building full-stack web applications. I like designing the whole system, from the database and API to the interface.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Study Buddy](https://github.com/1kerolis/study-buddy)
+A local-first study companion. It turns slides, PDFs, notes, and lecture videos into guided lessons, quizzes, spaced-repetition review, mind maps, and exam plans, using AI providers with your own keys.
+`Python` `FastAPI` `React` `TypeScript` `Tailwind` `Docker`
+
+### [ScoutHub](https://github.com/1kerolis/scouts-hub)
+Scouting troop management app with admin, leader, scout, and parent dashboards: role-based access, approval workflows, points and badges, event RSVP with waitlists, attendance, and CSV reports.
+`Python` `Flask` `SQLite` `React` `JWT`
+
+Source code for both projects is private; demos are available on request.
+
+## What I work with
+
+- **Backend:** Python, FastAPI, Flask, REST APIs, JWT authentication, SQLite / SQLModel
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS, React Router
+- **Tools:** Docker, Git
+- **Interests:** cybersecurity, mechatronics and hardware
+
+## Contact
+
+- Email: 1kerolis.maged@gmail.com
+- Discord: k37o
