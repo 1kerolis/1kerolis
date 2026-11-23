@@ -1,4 +1,5 @@
-# Kerolis Maged
+# Kerolis Maged 
+AKA Kero
 
 Computer science background, building full-stack web and desktop applications. I like designing the whole system, from the database and API to the interface.
 
